@@ -6,5 +6,7 @@ This repository is also targetted towards the Biological sciences. The process f
 In the end there will be 3 presentations:
 
 (1) When and how to apply for graduate school
+
 (2) What is the difference between the personal statement and statement of purpose?
+
 (3) How to prepare for the interview
